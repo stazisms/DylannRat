@@ -26,6 +26,10 @@ You are responsible for how you use it.
 Do **not** deploy it against systems you do not own or have explicit permission to test.
 
 ---
+## Pull requests
+
+- make one if u want 2 fix any issues revolving around the project or any feature additions
+---
 
 ## Features
 - discord grabber  
